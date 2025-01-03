@@ -1,7 +1,6 @@
-# Balance Life
-
-## Spritual Enligntment
-## Physical Intellegence
+# Balance in Life
+## Spiritual Enlightenment
+## Physical Intelligence
 ## Emotional Intelligence
-## Verbal/ Communication
-## Cognitive/Intellectual
+## Verbal/Communication Skills
+## Cognitive/Intellectual Abilities
