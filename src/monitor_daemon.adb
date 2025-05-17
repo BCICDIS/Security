@@ -88,7 +88,7 @@ begin
    loop
       Write_Log("=== SYSTEM MONITOR LOOP START ===");
       -- Monitor file count
-      Count_Files("C:\Users\Vilma E. Agripo\Music\Musics");
+      Count_Files("C:\Users\@user\Music\Musics");
       -- Storage info
       Write_Log("Storage: " & Run_Command("df -h / | tail -n 1"));
       -- Memory info
