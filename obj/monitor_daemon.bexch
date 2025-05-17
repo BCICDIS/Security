@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__monitor_daemon.o
+[PROJECT FILES]
+C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\BlackBlazent\Projects\BlackSecurity\default.gpr
+20250517062440 0c3f64a89a50d10d5a7c25e6e26d93f9
+[BOUND OBJECT FILES]
+C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\BlackBlazent\Projects\BlackSecurity\obj\monitor_daemon.o
+[GENERATED SOURCE FILES]
+b__monitor_daemon.ads
+b__monitor_daemon.adb
+b__monitor_daemon.ali
+[RESULTING OPTIONS]
+-LC:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\BlackBlazent\Projects\BlackSecurity\obj\
+-LC:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\BlackBlazent\Projects\BlackSecurity\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
